@@ -1,4 +1,4 @@
-# BILLBOOK
+<img width="1983" height="793" alt="ChatGPT Image Aug 19, 2026, 08_58_13 AM" src="https://github.com/user-attachments/assets/65301258-e86e-4ea3-974e-35526c5be4a4" />
 
 ### A simple daily expense tracker designed for students. 
 
